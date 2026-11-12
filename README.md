@@ -33,4 +33,4 @@ This indicates that the model performed well in predicting employee attrition.
 
 With further refinement, this predictive tool could effectively support HR strategies aimed at understanding and mitigating attrition.
 
-Link - https://github.com/Ayush-2468/HR-Analytics-employee-attrition-ML-project/edit/main/README.md
+Link - https://github.com/Ayush-2468/HR-Analytics-employee-attrition-ML-project
